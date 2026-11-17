@@ -1,0 +1,18 @@
+{
+  "name": "ENE — The Comedy Gameverse",
+  "short_name": "ENE",
+  "description": "Five cinematic Telugu comedy games. Minimal look. Maximum madness.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0B0D",
+  "theme_color": "#0B0B0D",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/images/hero.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
